@@ -1,1 +1,2 @@
 ﻿This is the source folder.
+It contains code.
